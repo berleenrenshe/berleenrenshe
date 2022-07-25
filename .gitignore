@@ -1,0 +1,12 @@
+*~
+*.pyc
+
+/.hyde_deps
+/deploy
+/screenshots
+/.final
+/node_modules
+/glyphs-*.txt
+/goaccess.html
+
+/linkchecker-out.*
